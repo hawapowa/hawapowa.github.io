@@ -1,4 +1,4 @@
-# Hawa Lari — Developer Portfolio
+# Hawa Lari — Game Developer Portfolio
 
 Personal portfolio website showcasing my work in Unreal Engine 5,
 game development, interactive narrative, and experimental AI systems.
